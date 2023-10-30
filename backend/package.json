@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "node",
-    "dev": "nodemon app.js --watch"
+    "dev": "nodemon app.js --watch",
+    "start": "node app.js"
   },
   "dependencies": {
     "axios": "^1.5.1",
